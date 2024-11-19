@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://d3xnt44sg75lq"]
+
+[ext_resource type="Script" path="res://addons/popup/AnimatedPopup.gd" id="1_w7h5c"]
+
+[node name="PopupPanel" type="Node"]
+script = ExtResource("1_w7h5c")
